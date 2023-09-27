@@ -74,7 +74,7 @@ function setMarkers(items) {
       clickable: true,
       icon: {
         path: 0.0,
-        scale: 6,
+        scale: 8,
         fillOpacity: 1,
         strokeWeight: 2,
         fillColor: color,
