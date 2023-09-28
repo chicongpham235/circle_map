@@ -10,19 +10,29 @@ var markers = [];
 var markerClusters = [];
 
 const TYPES = [
-  { type: "Barge Facility", color: "#DB504A", path: "/assets/m1.png" },
-  { type: "CDD Landfill", color: "#FF6F59", path: "/assets/m2.png" },
-  { type: "Industrial Landfill", color: "#254441", path: "/assets/m3.png" },
-  { type: "MRF", color: "#43AA8B", path: "/assets/m4.png" },
+  { type: "Barge Facility", color: "#DB504A", url: "/assets/m1.png" },
+  { type: "CDD Landfill", color: "#FF6F59", url: "/assets/m2.png" },
+  { type: "Industrial Landfill", color: "#254441", url: "/assets/m3.png" },
+  { type: "MRF", color: "#43AA8B", url: "/assets/m4.png" },
   {
     type: "Materials Recovery Facility",
     color: "#B2B09B",
-    path: "/assets/m5.png",
+    url: "/assets/m5.png",
   },
-  { type: "Sanitary Landfill", color: "#2a9d8f", path: "/assets/m6.png" },
-  { type: "Transfer Station", color: "#588157", path: "/assets/m7.png" },
-  { type: "Waste Pile", color: "#fca311", path: "/assets/m8.png" },
+  { type: "Sanitary Landfill", color: "#2a9d8f", url: "/assets/m6.png" },
+  { type: "Transfer Station", color: "#588157", url: "/assets/m7.png" },
+  { type: "Waste Pile", color: "#fca311", url: "/assets/m8.png" },
 ];
+
+const mcOptions = {
+  styles: [
+    {
+      url: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m1.png",
+      height: 53,
+      width: 53,
+    },
+  ],
+};
 
 let data = [];
 async function init() {
@@ -76,9 +86,7 @@ function setMarkers(items) {
     markerClusters[TYPE.type] = new MarkerClusterer(map, markers[TYPE.type], {
       styles: [
         {
-          url: TYPE.path,
-          height: 53,
-          width: 53,
+          url: TYPE.url,
         },
       ],
     });
