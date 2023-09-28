@@ -10,14 +10,18 @@ var markers = [];
 var markerClusters = [];
 
 const TYPES = [
-  { type: "Barge Facility", color: "#DB504A" },
-  { type: "CDD Landfill", color: "#FF6F59" },
-  { type: "Industrial Landfill", color: "#254441" },
-  { type: "MRF", color: "#43AA8B" },
-  { type: "Materials Recovery Facility", color: "#B2B09B" },
-  { type: "Sanitary Landfill", color: "#2a9d8f" },
-  { type: "Transfer Station", color: "#588157" },
-  { type: "Waste Pile", color: "#fca311" },
+  { type: "Barge Facility", color: "#DB504A", path: "/assets/icon1/m" },
+  { type: "CDD Landfill", color: "#FF6F59", path: "/assets/icon2/m" },
+  { type: "Industrial Landfill", color: "#254441", path: "/assets/icon3/m" },
+  { type: "MRF", color: "#43AA8B", path: "/assets/icon4/m" },
+  {
+    type: "Materials Recovery Facility",
+    color: "#B2B09B",
+    path: "/assets/icon5/m",
+  },
+  { type: "Sanitary Landfill", color: "#2a9d8f", path: "/assets/icon6/m" },
+  { type: "Transfer Station", color: "#588157", path: "/assets/icon7/m" },
+  { type: "Waste Pile", color: "#fca311", path: "/assets/icon8/m" },
 ];
 
 let data = [];
@@ -31,7 +35,7 @@ async function init() {
   var mapOptions = {
     zoom: zoom,
     maxZoom: 22,
-    minZoom: 4,
+    // minZoom: 4,
     tilt: 45,
     center: center,
     mapTypeControl: false,
@@ -77,8 +81,7 @@ function setMarkers(items) {
 
   TYPES.forEach((TYPE) => {
     markerClusters[TYPE.type] = new MarkerClusterer(map, markers[TYPE.type], {
-      imagePath:
-        "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
+      imagePath: TYPE.path,
       minimumClusterSize: 2,
       maxZoom: 8,
     });
