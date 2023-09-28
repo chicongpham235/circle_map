@@ -35,7 +35,7 @@ async function init() {
   var mapOptions = {
     zoom: zoom,
     maxZoom: 22,
-    // minZoom: 4,
+    minZoom: 4,
     tilt: 45,
     center: center,
     mapTypeControl: false,
