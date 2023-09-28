@@ -10,18 +10,14 @@ var markers = [];
 var markerClusters = [];
 
 const TYPES = [
-  { type: "Barge Facility", color: "#DB504A", url: "/assets/m1.png" },
-  { type: "CDD Landfill", color: "#FF6F59", url: "/assets/m2.png" },
-  { type: "Industrial Landfill", color: "#254441", url: "/assets/m3.png" },
-  { type: "MRF", color: "#43AA8B", url: "/assets/m4.png" },
-  {
-    type: "Materials Recovery Facility",
-    color: "#B2B09B",
-    url: "/assets/m5.png",
-  },
-  { type: "Sanitary Landfill", color: "#2a9d8f", url: "/assets/m6.png" },
-  { type: "Transfer Station", color: "#588157", url: "/assets/m7.png" },
-  { type: "Waste Pile", color: "#fca311", url: "/assets/m8.png" },
+  { type: "Barge Facility", color: "#DB504A" },
+  { type: "CDD Landfill", color: "#FF6F59" },
+  { type: "Industrial Landfill", color: "#254441" },
+  { type: "MRF", color: "#43AA8B" },
+  { type: "Materials Recovery Facility", color: "#B2B09B" },
+  { type: "Sanitary Landfill", color: "#2a9d8f" },
+  { type: "Transfer Station", color: "#588157" },
+  { type: "Waste Pile", color: "#fca311" },
 ];
 
 let data = [];
