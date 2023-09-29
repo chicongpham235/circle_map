@@ -71,8 +71,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "39.5931962",
-    "lng": "-75.4443817"
+    "lat": "37.27449677",
+    "lng": "-80.01845948"
   },
   {
     "Facility Name": "Wolftrap Operations Incorporated - Yorktown",
@@ -491,8 +491,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "7900000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.09024",
-    "lng": "-95.712891"
+    "lat": "36.98713551",
+    "lng": "-79.3194476"
   },
   {
     "Facility Name": "International Paper LF No 2 - Isle of Wight",
@@ -521,8 +521,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "15300000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.7934585",
-    "lng": "-79.9939463"
+    "lat": "37.79651103",
+    "lng": "-79.99281069"
   },
   {
     "Facility Name": "WestRock CP LLC",
@@ -536,8 +536,8 @@
     "Process Rate/Daily Disposal Limit UOM": "cubic yards per day",
     "Waste Storage/Total Capacity": "1463000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "41.3914827",
-    "lng": "-73.9559721"
+    "lat": "37.54448569",
+    "lng": "-76.80378563"
   },
   {
     "Facility Name": "GP Big Island LLC",
@@ -566,8 +566,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "1200700",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "42.3732216",
-    "lng": "-72.5198537"
+    "lat": "37.51076",
+    "lng": "-78.91001"
   },
   {
     "Facility Name": "Celanese Acetate LLC",
@@ -911,8 +911,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.09024",
-    "lng": "-95.712891"
+    "lat": "37.01845161",
+    "lng": "-76.40467924"
   },
   {
     "Facility Name": "County Waste, LLC",
@@ -926,8 +926,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "400",
     "Waste Storage/Total Capacity UOM": "",
-    "lat": "41.3914827",
-    "lng": "-73.9559721"
+    "lat": "37.51648716",
+    "lng": "-76.85902326"
   },
   {
     "Facility Name": "United Disposal Incorporated",
@@ -1076,8 +1076,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "129498047",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.09024",
-    "lng": "-95.712891"
+    "lat": "37.10942773",
+    "lng": "-77.20500986"
   },
   {
     "Facility Name": "King George Landfill Incorporated",
@@ -1106,23 +1106,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "25800000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "36.7282054",
-    "lng": "-76.5835621"
-  },
-  {
-    "Facility Name": "SPSA - Regional Landfill",
-    "Loc City/Town": "Suffolk",
-    "Ownership Type": "Authority",
-    "Unit Type": "Sanitary Landfill",
-    "T/S/D": "Disposal",
-    "Unit Status": "Active",
-    "Permit Status": "Permitted",
-    "Process Rate/Daily Disposal Limit": "7500",
-    "Process Rate/Daily Disposal Limit UOM": "tons per day",
-    "Waste Storage/Total Capacity": "25800000",
-    "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "36.7549397",
-    "lng": "-76.516968"
+    "lat": "36.75505886",
+    "lng": "-76.51691357"
   },
   {
     "Facility Name": "Maplewood Recycling and Waste Disposal",
@@ -1166,23 +1151,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "35696679",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.5059332",
-    "lng": "-77.3324425"
-  },
-  {
-    "Facility Name": "BFI Old Dominion Landfill",
-    "Loc City/Town": "Henrico",
-    "Ownership Type": "Commercial",
-    "Unit Type": "Sanitary Landfill",
-    "T/S/D": "Disposal",
-    "Unit Status": "Active",
-    "Permit Status": "Permitted",
-    "Process Rate/Daily Disposal Limit": "6000",
-    "Process Rate/Daily Disposal Limit UOM": "tons per day",
-    "Waste Storage/Total Capacity": "35696679",
-    "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.5127679",
-    "lng": "-77.3718086"
+    "lat": "37.51308275",
+    "lng": "-77.37169059"
   },
   {
     "Facility Name": "Brunswick Waste Management Facility LLC",
@@ -1196,8 +1166,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "27090000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "33.9562149",
-    "lng": "-83.9879625"
+    "lat": "36.76273842",
+    "lng": "-77.80956307"
   },
   {
     "Facility Name": "Brunswick Waste Management Facility LLC",
@@ -1211,8 +1181,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "9060000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "33.9562149",
-    "lng": "-83.9879625"
+    "lat": "36.76273842",
+    "lng": "-77.80956307"
   },
   {
     "Facility Name": "Shoosmith Sanitary Landfill",
@@ -1241,8 +1211,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "50300000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "39.2653533",
-    "lng": "-88.2071598"
+    "lat": "37.51230774",
+    "lng": "-78.2315641"
   },
   {
     "Facility Name": "Middle Peninsula Landfill and Recycling Facility",
@@ -1256,8 +1226,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "34220000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.09024",
-    "lng": "-95.712891"
+    "lat": "37.5267035",
+    "lng": "-76.61823472"
   },
   {
     "Facility Name": "King and Queen Sanitary Landfill",
@@ -1316,8 +1286,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "13000000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.09024",
-    "lng": "-95.712891"
+    "lat": "37.5267035",
+    "lng": "-76.61823472"
   },
   {
     "Facility Name": "USA Waste of Virginia Landfills - Bethel",
@@ -1346,8 +1316,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "7733000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.09024",
-    "lng": "-95.712891"
+    "lat": "36.59894765",
+    "lng": "-82.15161"
   },
   {
     "Facility Name": "Augusta Regional Landfill",
@@ -1391,23 +1361,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "3194000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "37.2279279",
-    "lng": "-77.4019267"
-  },
-  {
-    "Facility Name": "Tri City Regional Disposal and Recycling Services",
-    "Loc City/Town": "PETERSBURG",
-    "Ownership Type": "Commercial",
-    "Unit Type": "Sanitary Landfill",
-    "T/S/D": "Disposal",
-    "Unit Status": "Inactive",
-    "Permit Status": "Permitted",
-    "Process Rate/Daily Disposal Limit": "1500",
-    "Process Rate/Daily Disposal Limit UOM": "tons per day",
-    "Waste Storage/Total Capacity": "3194000",
-    "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "46.2349999",
-    "lng": "-119.2233014"
+    "lat": "37.24131289",
+    "lng": "-77.3743057"
   },
   {
     "Facility Name": "Tri City Regional Disposal and Recycling Services",
@@ -1421,8 +1376,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "3474379",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "46.2349999",
-    "lng": "-119.2233014"
+    "lat": "37.24131289",
+    "lng": "-77.3743057"
   },
   {
     "Facility Name": "Smith Gap Regional Landfill",
@@ -1436,8 +1391,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "17211799",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "40.8345386",
-    "lng": "-75.4343499"
+    "lat": "37.2917",
+    "lng": "-80.2167"
   },
   {
     "Facility Name": "New River Resource Authority Solid Waste Facility",
@@ -1601,8 +1556,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "1893284",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "40.0166094",
-    "lng": "-78.4840602"
+    "lat": "37.25255176",
+    "lng": "-79.48151675"
   },
   {
     "Facility Name": "Franklin County - Sanitary Landfill",
@@ -1661,8 +1616,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "4610000",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "33.7879085",
-    "lng": "-117.855281"
+    "lat": "38.24306762",
+    "lng": "-78.03274237"
   },
   {
     "Facility Name": "Henrico County DPU Springfield Rd Waste Management",
@@ -1751,8 +1706,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "33.7879085",
-    "lng": "-117.855281"
+    "lat": "38.24306762",
+    "lng": "-78.03274237"
   },
   {
     "Facility Name": "Battle Creek Landfill",
@@ -1886,8 +1841,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "1074500",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "42.3354829",
-    "lng": "-71.0456735"
+    "lat": "36.7187068",
+    "lng": "-78.9012659"
   },
   {
     "Facility Name": "Pittsylvania Co - Sanitary Landfill",
@@ -1946,8 +1901,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "2750810",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "33.2895861",
-    "lng": "-97.6982272"
+    "lat": "36.96934239",
+    "lng": "-82.58742713"
   },
   {
     "Facility Name": "Laurel Valley Center- Culpeper County",
@@ -2036,8 +1991,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "365800",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "40.0186921",
-    "lng": "-78.5039069"
+    "lat": "37.33275763",
+    "lng": "-79.50363182"
   },
   {
     "Facility Name": "Botetourt County Landfill",
@@ -2171,8 +2126,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "42.3354829",
-    "lng": "-71.0456735"
+    "lat": "36.7187068",
+    "lng": "-78.9012659"
   },
   {
     "Facility Name": "Halifax County of - Sanitary Landfill",
@@ -2381,8 +2336,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "0",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "36.3723561",
-    "lng": "-94.2102141"
+    "lat": "38.81527725",
+    "lng": "-78.28422733"
   },
   {
     "Facility Name": "Waynesboro City Landfill Msw Balefill",
@@ -2471,8 +2426,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "550",
     "Waste Storage/Total Capacity UOM": "",
-    "lat": "42.8158937",
-    "lng": "-71.1943238"
+    "lat": "37.27916458",
+    "lng": "-80.0462785"
   },
   {
     "Facility Name": "County Waste - Hanover",
@@ -2501,8 +2456,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "",
     "Waste Storage/Total Capacity UOM": "",
-    "lat": "37.09024",
-    "lng": "-95.712891"
+    "lat": "36.59894765",
+    "lng": "-82.15161"
   },
   {
     "Facility Name": "Dominion Transfer Station",
@@ -2531,8 +2486,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "",
     "Waste Storage/Total Capacity UOM": "",
-    "lat": "40.0186921",
-    "lng": "-78.5039069"
+    "lat": "37.25255176",
+    "lng": "-79.48151675"
   },
   {
     "Facility Name": "Troy Transfer",
@@ -2546,8 +2501,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "875",
     "Waste Storage/Total Capacity UOM": "cubic yards",
-    "lat": "42.703942",
-    "lng": "-73.696685"
+    "lat": "37.97304126",
+    "lng": "-78.23304715"
   },
   {
     "Facility Name": "Greene County Transfer Station",
@@ -2786,8 +2741,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "",
     "Waste Storage/Total Capacity UOM": "",
-    "lat": "37.09024",
-    "lng": "-95.712891"
+    "lat": "36.98713551",
+    "lng": "-79.3194476"
   },
   {
     "Facility Name": "Scott County Transfer Station",
@@ -2846,8 +2801,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "",
     "Waste Storage/Total Capacity UOM": "",
-    "lat": "37.09024",
-    "lng": "-95.712891"
+    "lat": "36.90492827",
+    "lng": "-82.069378"
   },
   {
     "Facility Name": "Smyth County Transfer Station",
@@ -2966,8 +2921,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "120",
     "Waste Storage/Total Capacity UOM": "tons per hour",
-    "lat": "37.3912302",
-    "lng": "-76.317414"
+    "lat": "37.45951732",
+    "lng": "-76.37041653"
   },
   {
     "Facility Name": "Virginia Peninsula Public Svc Authty King William",
@@ -2981,8 +2936,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "120",
     "Waste Storage/Total Capacity UOM": "tons per day",
-    "lat": "37.6871635",
-    "lng": "-77.0136839"
+    "lat": "37.74111698",
+    "lng": "-77.1279888"
   },
   {
     "Facility Name": "Virginia Peninsula Public Svc Authty Essex County",
@@ -2996,8 +2951,8 @@
     "Process Rate/Daily Disposal Limit UOM": "tons per day",
     "Waste Storage/Total Capacity": "120",
     "Waste Storage/Total Capacity UOM": "tons per day",
-    "lat": "40.7947466",
-    "lng": "-74.2648829"
+    "lat": "37.58195915",
+    "lng": "-76.56524034"
   },
   {
     "Facility Name": "Pulaski Town - Temporary Debris  Staging Area",
