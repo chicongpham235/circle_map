@@ -122,7 +122,11 @@ function setMarkers(items) {
                             word-wrap: break-word;
                             white-space: normal;">
                         <span style="font-weight: 500">Process Rate/Daily Disposal Limit:</span>
-                        <span>${items[key]["Process Rate/Daily Disposal Limit"]} ${items[key]["Process Rate/Daily Disposal Limit UOM"]}</span>
+                        <span>${numberWithCommas(
+                          items[key]["Process Rate/Daily Disposal Limit"]
+                        )} ${
+        items[key]["Process Rate/Daily Disposal Limit UOM"]
+      }</span>
                     </div>`;
     }
     if (items[key]["Waste Storage/Total Capacity"]) {
@@ -131,7 +135,11 @@ function setMarkers(items) {
                             word-wrap: break-word;
                             white-space: normal;">
                         <span style="font-weight: 500">Waste Storage/Total Capacity:</span>
-                        <span>${items[key]["Waste Storage/Total Capacity"]} ${items[key]["Waste Storage/Total Capacity UOM"]}</span>
+                        <span>${numberWithCommas(
+                          items[key]["Waste Storage/Total Capacity"]
+                        )} ${
+        items[key]["Waste Storage/Total Capacity UOM"]
+      }</span>
                     </div>`;
     }
     TYPES.forEach((TYPE) => {
@@ -173,4 +181,8 @@ function setMarkers(items) {
       maxZoom: 8,
     });
   });
+}
+
+function numberWithCommas(x) {
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
